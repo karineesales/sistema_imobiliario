@@ -9,6 +9,9 @@ Password: root
 O script imobiliaria_BD deverá ser executado para criação e população do Banco de Dados
 antes de executar a aplicação do sistema imobiliário.
 
+Não esquecer de adicionar o external JAR do MySQL ao projeto criado no eclipse para haver
+a conexão do banco de dados, caso contrário a conexão é nula.
+
 Para iniciar a aplicação execute a classe SistemaImobiliarioGUI no pacote telas.sistema.
 
 Para preenchimento das lacunas existentes na aplicação como título, pretensão, entre outros,
