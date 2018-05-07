@@ -1,0 +1,21 @@
+O sistema imobiliário aqui criado, foi desenvolvido na linguagem Java,
+na plataforma Eclipse Oxygen.3. O plug-in Window Builder foi utilizado 
+para criação das frames de interface.
+
+O banco de dados utilizado foi o MySQL 5.7
+Service: Mysql@localhost:3306
+User: root
+Password: root
+O script imobiliaria_BD deverá ser executado para criação e população do Banco de Dados
+antes de executar a aplicação do sistema imobiliário.
+
+Para iniciar a aplicação execute a classe SistemaImobiliarioGUI no pacote telas.sistema.
+
+Para preenchimento das lacunas existentes na aplicação como título, pretensão, entre outros,
+utilize apenas letras minúsculas para evitar erros de compilação. Ainda há tratamentos de erro à
+serem desenvolvidos.
+
+Nas opções de selecionar um radiobutton, selecionar apenas um, para evitar erros de compilação.
+
+
+
